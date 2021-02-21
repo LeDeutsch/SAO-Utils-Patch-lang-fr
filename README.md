@@ -11,7 +11,7 @@ My patch is a non-official patch create only for volunteering for thoses persons
 
 ## Installation des fichiers traduits
 
-1) Veuillez vous diriger dans les fichiers locaux de SAO utils
+1) Veuillez vous diriger dans les fichiers locaux de SAO utils.
 
 ![Fichiers locaux de SAO utils](Images/SnipOne.JPG)
 
@@ -31,6 +31,6 @@ Si vous n'utilisez pas SAO Utils depuis la plateforme Steam, clic droit sur l'ic
 
 | fr_FR | .mo |
 | ------ | ------ |
-| cfg | [Locales/fr_FR/cfg.mo][PlDb] |
-| std | [Locales/fr_FR/std.mo][PlGh] |
-| ui | [Locales/fr_FR/ui.mo][PlGd] |
+| cfg | [Simplonline](Locales/fr_FR/cfg.mo) ! |
+| std | [Simplonline](Locales/fr_FR/std.mo) ! |
+| ui | [Simplonline](Locales/fr_FR/ui.mo) ! |
