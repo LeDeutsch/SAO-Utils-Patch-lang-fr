@@ -12,7 +12,7 @@ My patch is a non-official patch create only for volunteering for thoses persons
 ## Installation
 
 1) Veuillez vous diriger dans les fichiers locaux de SAO utils
-![Fichiers locaux de SAO utils](Images/SnipOne.jpg)
+![Fichiers locaux de SAO utils](Images/SnipOne.JPG)
 
 > Note: Si vous utilisez le chemin par défaut, veuillez donc vous diriger içi :
  C:\Program Files (x86)\Steam\steamapps\common\SAO Utils.
