@@ -37,9 +37,9 @@ Si vous n'utilisez pas SAO Utils depuis la plateforme Steam, clic droit sur l'ic
 
 5) Veuillez maintenant déposer les fichiers téléchargers dans ce nouveau fichier.
 
-Bravo, vous disposez dès a présent de SAO Utils en français.
-Néanmoins, vous disposez d'une traduction incomplète. 
-Souhaitez vous disposer des 15+ Plugins disponibles par défaut traduit en français? Si vous le souhaitez, continuez alors de lire et je vous indiquerais les démarches.
+Bravo, vous disposez des à présent de SAO Utiles en français. 
+Néanmoins, vous disposez d'une traduction incomplète.
+Souhaitez-vous disposer des 15+ plugins disponibles par défaut traduits en français? Si vous le souhaitez, continuez alors de lire et je vous indiquerais les démarches.
 
 ## Plugins
 
@@ -62,7 +62,7 @@ Souhaitez vous disposer des 15+ Plugins disponibles par défaut traduit en fran�
 | Web Browser Engine | [fr_FR.mo](Plugins/Bangumi/Locales/fr_FR.mo) |
 | Web Widget | [fr_FR.mo](Plugins/Bangumi/Locales/fr_FR.mo) |
 
-La méthode est la même à la différence qu'il y aura qu'un seul fichier (fr_FR.mo) à ajouter.
+La méthode est la même à la différence qu'il y n'aura qu'un seul fichier (fr_FR.mo) a ajouter.
 
 1) Veuillez vous diriger dans les fichiers locaux de SAO utils.
 
@@ -78,15 +78,15 @@ La méthode est la même à la différence qu'il y aura qu'un seul fichier (fr_F
 
 4) Veuillez ensuite télécharger les fichiers traduits disponibles sur le tableau plus haut.
 
-5) Veuillez maintenant déposer les fichiers téléchargers dans ces nouveaux fichiers.
+5) Veuillez maintenant déposer les fichiers téléchargés dans ces nouveaux fichiers.
 
 Bravo, vous disposez dès a présent de SAO Utils et ces plugins traduit à 99% en français.
 
 > Note: 
 Si vous n'avez aucun fichier traduit après ces manipulations, vérifiez
 la langue par défaut de votre ordinateur/windows. Si par exemple il
-est en Anglais, alors veuillez créer un fichier "en_US" à la place du
-fichier "fr_FR".
+est en Anglais, alors veuillez créer des fichiers renommés "en_US" à la place des
+fichiers "fr_FR".
 
 ## License
 
