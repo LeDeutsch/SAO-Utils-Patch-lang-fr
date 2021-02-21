@@ -29,8 +29,8 @@ Si vous n'utilisez pas SAO Utils depuis la plateforme Steam, clic droit sur l'ic
 
 4) Veuillez ensuite télécharger les fichiers traduits.
 
-| fr_FR | .mo |
+| Fichier GitHub | .mo |
 | ------ | ------ |
-| cfg | [Simplonline](Locales/fr_FR/cfg.mo) ! |
-| std | [Simplonline](Locales/fr_FR/std.mo) ! |
-| ui | [Simplonline](Locales/fr_FR/ui.mo) ! |
+| fr_FR | [cfg.mo](Locales/fr_FR/cfg.mo) ! |
+| fr_FR | [std.mo](Locales/fr_FR/std.mo) ! |
+| fr_FR | [ui.mo](Locales/fr_FR/ui.mo) ! |
