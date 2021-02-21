@@ -31,6 +31,6 @@ Si vous n'utilisez pas SAO Utils depuis la plateforme Steam, clic droit sur l'ic
 
 | Fichier GitHub | .mo |
 | ------ | ------ |
-| fr_FR | [cfg.mo](Locales/fr_FR/cfg.mo) ! |
-| fr_FR | [std.mo](Locales/fr_FR/std.mo) ! |
-| fr_FR | [ui.mo](Locales/fr_FR/ui.mo) ! |
+| fr_FR | [cfg.mo](Locales/fr_FR/cfg.mo)  |
+| fr_FR | [std.mo](Locales/fr_FR/std.mo)  |
+| fr_FR | [ui.mo](Locales/fr_FR/ui.mo)  |
