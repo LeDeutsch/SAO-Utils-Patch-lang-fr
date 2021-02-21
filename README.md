@@ -1,6 +1,7 @@
 # # SAO-Utils-Patch-lang-fr
 
-![SAO Utils Patch[FR]](image/final.jpg)
+![SAO Utils Patch[FR]](Images/final.jpg)
+
 ## There is my translated Patch for SAO Utils.
 
 SAO Utils is a Full-Dive 3D app launcher with varieties of themes, desktop widgets and powerful utilities. 
