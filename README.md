@@ -11,6 +11,36 @@ My patch is a non-official patch create only for volunteering for thoses persons
 
 ## Installation des fichiers traduits
 
+Pour une utilisation plus rapide pour vous, je vous propose deux alternatives.
+La première sera de "drag and past". Vous téléchargerez le fichier "SAO-utils-Patch-FR.zip" de l'extraire et de remplacer les fichiers d'origines d'SAO utils par les nouveaux.
+
+la seconde qui est la même chose, seulement vous devez tout faire manuellement, ce qui est plus long.
+
+Avant de commencer, si vous utilisez SAO utils depuis la plateforme Steam, sachez que la langue normalement par défaut est l'anglais.
+Mes fichiers traduits sont bien évidemment en français mais renommés "en_US" (Anglophone).
+Vous simulerez à steam que vous utilisez des fichiers anglais qui seront traduits en français. Compliqué ou bizarre, c'est la seule manière vu que mon patch n'est pas officiel :)
+
+
+## Installation rapide
+
+1) Veuillez vous diriger dans les fichiers locaux de SAO utils.
+
+![Fichiers locaux de SAO utils](Images/SnipOne.JPG)
+
+> Note: Si vous utilisez le chemin par défaut, veuillez donc vous diriger içi :
+ C:\Program Files (x86)\Steam\steamapps\common\SAO Utils.
+ 
+2) Veuillez ensuite télécharger le fichier [SAO-utils-Patch-FR.zip](SAO-utils-Patch-FR).
+
+3) Veuillez ensuite ouvrir/extraire ce fichier.zip.
+
+3) veuillez ensuite glisser les fichiers "Locales" et "Plugins" du fichier zippé dans les fichiers locaux de SAO utiles.
+
+4) Relancez SAO Utils et profitez :)
+
+
+## Installation manuelle
+
 1) Veuillez vous diriger dans les fichiers locaux de SAO utils.
 
 ![Fichiers locaux de SAO utils](Images/SnipOne.JPG)
@@ -83,10 +113,7 @@ La méthode est la même à la différence qu'il y n'aura qu'un seul fichier (fr
 Bravo, vous disposez dès a présent de SAO Utils et ces plugins traduit à 99% en français.
 
 > Note: 
-Si vous n'avez aucun fichier traduit après ces manipulations, vérifiez
-la langue par défaut de votre ordinateur/windows. Si par exemple il
-est en Anglais, alors veuillez créer des fichiers renommés "en_US" à la place des
-fichiers "fr_FR".
+Durant l'installation manuelle, les fichiers sont renommés "fr_FR". Ils fonctionneront que s'ils sont renommés "en_US".
 
 ## License
 
