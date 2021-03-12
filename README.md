@@ -30,7 +30,7 @@ Vous simulerez à steam que vous utilisez des fichiers anglais qui seront tradui
 > Note: Si vous utilisez le chemin par défaut, veuillez donc vous diriger içi :
  C:\Program Files (x86)\Steam\steamapps\common\SAO Utils.
  
-2) Veuillez ensuite télécharger le fichier [SAO-utils-Patch-FR.zip](SAO-utils-Patch-FR).
+2) Veuillez ensuite télécharger le fichier [SAO-utils-Patch-FR.zip](SAO-utils-Patch-FR.zip).
 
 3) Veuillez ensuite ouvrir/extraire ce fichier.zip.
 
